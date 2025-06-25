@@ -1,16 +1,25 @@
-## Hi there 👋
+### Wassup, I'm Zaid 👋
 
-<!--
-**Zaid2044/Zaid2044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI and Computer Vision developer passionate about building applications that bridge the gap between the digital and physical worlds. I specialize in Python and creating real-time, interactive experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Advanced NLP with Transformers and Production Deployment.**
+- 👯 I’m looking to collaborate on open-source computer vision projects.
+- 💬 Ask me about **OpenCV, MediaPipe, Pygame, or Flask.**
+- 📫 How to reach me:(https://www.linkedin.com/in/zaid2044/)
+
+---
+
+### My Tech Stack
+
+- **Languages:** Python
+- **AI/ML:** PyTorch, Scikit-learn, Hugging Face Transformers, MediaPipe
+- **Computer Vision:** OpenCV
+- **Backend:** Flask, FastAPI
+- **Frontend:** HTML, CSS
+- **Tools:** Git, Docker
+
+---
+
+[![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaid2044&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
