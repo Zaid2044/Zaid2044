@@ -4,13 +4,6 @@ I'm an AI and Computer Vision developer passionate about building applications t
 
 ---
 
-- 🌱 I’m currently learning **Advanced NLP with Transformers and Production Deployment.**
-- 👯 I’m looking to collaborate on open-source computer vision projects.
-- 💬 Ask me about **OpenCV, MediaPipe, Pygame, or Flask.**
-- 📫 How to reach me:(https://www.linkedin.com/in/zaid2044/)
-
----
-
 ### My Tech Stack
 
 - **Languages:** Python
