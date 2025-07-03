@@ -67,7 +67,7 @@ See more at: [github.com/Zaid2044](https://github.com/Zaid2044)
 
 ### ☕ Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohammedzaidahmed)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Zaid2044)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Zaid2044)
 
 ---
