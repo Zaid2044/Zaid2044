@@ -49,9 +49,11 @@ See more at: [github.com/Zaid2044](https://github.com/Zaid2044)
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaid2044&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Zaid2044&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaid2044&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Zaid's GitHub stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Zaid2044&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Zaid's GitHub streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid2044&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 
