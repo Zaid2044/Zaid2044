@@ -50,7 +50,7 @@
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/mohammedzaidahmed)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Zaid2044)
 - 💬 Open to collaborations, internships, and AI research projects
 
 ---
