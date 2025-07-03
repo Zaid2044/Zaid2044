@@ -1,3 +1,2 @@
-# Hello World 👋
+<!-- 👁️ PROJECT: ZAID2044.EXE - LEVEL 9 AI SYSTEMS UNIT -->
 
-I'm Zaid, an AI engineer building real-time systems.
