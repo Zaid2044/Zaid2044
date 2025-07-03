@@ -35,7 +35,7 @@
 | [langchain-qa-agent](https://github.com/Zaid2044/langchain-qa-agent) | Local LLM QA agent using vector search and LangChain |
 | [Demand-Forecaster](https://github.com/Zaid2044/Demand-Forecaster) | LGBM model with custom time-series dashboard |
 
-➡️ See all my repos at [github.com/Zaid2044]([https://github.com/Zaid2044?tab=repositories])
+> 🟦 **[See all my repos at github.com/Zaid2044](https://github.com/Zaid2044?tab=repositories)**
 
 ---
 
