@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohammed Zaid Ahmed
 
-🎓 I’m an AIML undergrad (B.Tech, 2026) passionate about building real-time, AI-powered applications with local processing and modern interfaces.
+🎓 I’m an AIML undergrad (B.E, 2026) passionate about building real-time, AI-powered applications with local processing and modern interfaces.
 
 🧠 I focus on:
 - Machine Learning & Deep Learning
