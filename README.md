@@ -15,13 +15,31 @@
 
 ## 🔧 Tech Stack
 
+<!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-orange?style=flat)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+<!-- Web Tech -->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+<!-- Backend & DB -->
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+<!-- AI & Tools -->
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-F57C00?style=flat&logo=google&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-f7931e?style=flat&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-blue?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0052CC?style=flat&logo=chainlink&logoColor=white)
+
 
 ---
 
