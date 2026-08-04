@@ -84,24 +84,17 @@
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-<!-- Stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaid2044&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid2044&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zaid2044&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid2044&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zaid2044&theme=tokyonight"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zaid2044&theme=github_dark" />
 </p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaid2044&theme=tokyo-night"/>
-</p>
-
 ---
 
 > **"Automate everything. Build once. Deploy anywhere."** 🚀
