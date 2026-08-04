@@ -86,13 +86,21 @@
 
 # 📈 GitHub Stats
 
-<div align="center">
+<!-- Stats -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaid2044&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid2044&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zaid2044&show_icons=true&theme=github_dark" width="48%"/>
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zaid2044&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid2044&layout=compact&theme=github_dark" width="48%"/>
-
-</div>
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaid2044&theme=tokyo-night"/>
+</p>
 
 ---
 
