@@ -84,17 +84,18 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub 
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zaid2044&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid2044&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/github/followers/Zaid2044?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/github/stars/Zaid2044?affiliations=OWNER&style=for-the-badge">
+
+<img src="https://img.shields.io/github/last-commit/Zaid2044/argo-events-project?style=for-the-badge">
+
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zaid2044&theme=github_dark" />
-</p>
 ---
 
 > **"Automate everything. Build once. Deploy anywhere."** 🚀
